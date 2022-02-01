@@ -134,4 +134,5 @@ I committed the file by uploading it and committing with the message
 "Added log to github revision control"
 I made sure there is a backup on GitHub by adding this.
 I just realized that I added the first repository incorrectly, I went back to create a new repository and selected the phz3150 folder as the repository, now I will committ it with no description.
-After the initial commit I published this repository to github publicly.
+After the initial commit I published this repository to github publicly with the commit message "Committed phz3150 directory as a repository"
+I can now see all version historys of my log as I push the change to origin, so I took a screenshot of my phz3150 files in github showing that I have a backup and that the github code updates with newer versions of my log.
