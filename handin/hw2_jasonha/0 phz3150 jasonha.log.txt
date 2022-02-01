@@ -1,0 +1,118 @@
+Jason Ha
+Log for PHZ 3150, Spring 2022
+*****IN: Thu Jan 13 21:57:00 EST 2022
+Made a directory for the class here:
+\Users\jason\Desktop\phz3150
+Opened Notepad, started this log, saved as:
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+Completed the survey here:
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Jason Ha
+Email: jasonvha@knights.ucf.edu
+Phone: 407-558-5515
+Major: Photonics Science and Engineering
+Year: Freshman
+ID: 5276797
+How did you hear about this course? My counselor Mike Mckee recommended this to me.
+Do you have a laptop you can bring to class, install software on, etc.? Yes, a gaming one so it works pretty well.
+What operating system and version does it run? Windows 11 Home
+How much free disk space does it have? 566 GB
+What operating systems are you comfortable working in? Just Windows, but I would like to learn.
+What computer classes have you taken, including high school,
+extracurricular, etc.? None.
+Have you ever programmed a computer? No.
+In what language(s)? N/A
+Summarize your experience: I've had some experience using html to code as well as Arduino in last semester's engineering lab.
+Have you taken statistics or probability? No.
+Why are you taking this course? I would like to learn more about coding and python.
+Are there particular topics you hope to learn? Python, I was told it'd be the language used as we progress in photonics.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I don't think I have.
+Have you ever been involved with a science club or similar?  If so,
+describe: I was in science national honor society.
+Created a directory called books here:
+\Users\jason\Desktop\phz3150\books
+Downloaded https://www.greenteapress.com/thinkpython/thinkpython.pdf
+Saved the file directly to books as Users\jason\Desktop\phz3150\books\thinkpython
+*****OUT: Thu Jan 13 22:21:00 EST 2022
+*****IN: Thu Jan 13 22:25:00 EST 2022
+I created the directory demos here:
+\Users\jason\Desktop\phz3150\demos
+I created the directory handin here:
+\Users\jason\Desktop\phz3150\handin
+I created the directory hw1_jasonha here:
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+Before doing the next actions I will log them.
+I saved
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+I copy and pasted
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+into
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I zipped
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I submitted
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha.zip on Webcourses
+*****OUT: Thu Jan 13 22:42:00 EST 2022
+*****IN: Mon Jan 24 23:23:00 EST 2022
+Started HW2
+Problem 1
+On Thu Jan 13
+Enabled Windows Subsystem for Linux
+Restarted the computer
+Installed Ubuntu from the Microsoft Store
+Set up username and password and wrote it down on paper
+ran sudo apt update
+ran sudo apt upgrade
+On Thu Jan 20
+Installed Miniconda from https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe at \Users\jason\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
+Started python session
+ran conda update -all
+ran conda install numpy scipy ipython matplotlib
+ran conda install spyder
+On Mon Jan 24 (today)
+ran conda install jupyter
+Opened BASH terminal
+ran sudo apt install emacs
+downloaded emacs-25.3 1-x86 64.zip from http://ftp.gnu.org/gnu/emacs/windows/emacs-25/emacs-25.3_1-x86_64.zip to 
+C:\Users\jason\Downloads\emacs-25.3_1-x86_64.zip
+Moved emacs-25.3 1-x86 64 to 
+C:\Users\jason\AppData\Roaming\emacs-25.3_1-x86_64
+Opened Bash Terminal
+ran sudo apt install git
+OUT*****: Mon Jan 25 00:01:00 EST 2022
+IN*****: Mon Jan 25 10:40:00 EST 2022
+Downloaded Git-2.35.0-64-bit.exe from https://github.com/git-for-windows/git/releases/download/v2.35.0.windows.1/Git-2.35.0-64-bit.exe
+to "C:\Users\jason\Downloads\Git-2.35.0-64-bit.exe"
+and installed the software to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+Saved screenshot of Jupyter Session to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_jupytersession.jpeg" using windows snip tool
+Turning in hw2_jupytersession.jpeg
+Opened Spyder to verify python version 3.7
+Saved screenshot of spyder session to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_python_version3.7.jpg" using windows snip tool.
+Turning in hw2_python_version3.7.jpg
+Downloaded GitHubDesktopSetup-x64 from https://central.github.com/deployments/desktop/desktop/latest/win32
+Installed Github desktop to C:\Users\jason\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc
+I had already synced it with the classroom.
+Took screenshot of Github Desktop with windows snip tool
+Saved to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_python_version3.7.jpg"
+Problem 2
+English sentence with correct syntax but incorrect tokens
+"To*#day I gave my d@g a bath."
+English sentence with correct tokens but incorrect syntax:
+"He smiling when your fell."
+The main feature of natural languages preventing their use as programming languages is their ambiguity. Natural languages at their core can change the meaning of what they communicate based on things like context and tones. Programming languages in contrast strive to convey the same meaning by removing that and being precise as possible.
+Problem 3
+Completed github hello world tutorial
+Uploaded hw1_survey.txt to HW1 classroom directory and took a screenshot using windows snip.
+Saved as "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_github_hw1_survey.txt upload.jpg"
+Pushed to origin
+took a screenshot using windows snip tool
+saved as "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_github_pushtoorigin.jpg"
+Problem 1
+Turning in hw2_jupytersession.jpeg, hw2_python_version3.7.jpeg
+Problem 2
+Turning in the text above
+Problem 3
+Turning in hw2_github_hw1_survey.txt upload.jpg, hw2_github_pushtoorigin.jpg
+OUT***** Mon Jan 25 11:51:00 EST 2022
+

@@ -1,0 +1,56 @@
+Jason Ha
+Log for PHZ 3150, Spring 2022
+*****IN: Thu Jan 13 21:57:00 EST 2022
+Made a directory for the class here:
+\Users\jason\Desktop\phz3150
+Opened Notepad, started this log, saved as:
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+Completed the survey here:
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Jason Ha
+Email: jasonvha@knights.ucf.edu
+Phone: 407-558-5515
+Major: Photonics Science and Engineering
+Year: Freshman
+ID: 5276797
+How did you hear about this course? My counselor Mike Mckee recommended this to me.
+Do you have a laptop you can bring to class, install software on, etc.? Yes, a gaming one so it works pretty well.
+What operating system and version does it run? Windows 11 Home
+How much free disk space does it have? 566 GB
+What operating systems are you comfortable working in? Just Windows, but I would like to learn.
+What computer classes have you taken, including high school,
+extracurricular, etc.? None.
+Have you ever programmed a computer? No.
+In what language(s)? N/A
+Summarize your experience: I've had some experience using html to code as well as Arduino in last semester's engineering lab.
+Have you taken statistics or probability? No.
+Why are you taking this course? I would like to learn more about coding and python.
+Are there particular topics you hope to learn? Python, I was told it'd be the language used as we progress in photonics.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I don't think I have.
+Have you ever been involved with a science club or similar?  If so,
+describe: I was in science national honor society.
+Created a directory called books here:
+\Users\jason\Desktop\phz3150\books
+Downloaded https://www.greenteapress.com/thinkpython/thinkpython.pdf
+Saved the file directly to books as Users\jason\Desktop\phz3150\books\thinkpython
+*****OUT: Thu Jan 13 22:21:00 EST 2022
+*****IN: Thu Jan 13 22:25:00 EST 2022
+I created the directory demos here:
+\Users\jason\Desktop\phz3150\demos
+I created the directory handin here:
+\Users\jason\Desktop\phz3150\handin
+I created the directory hw1_jasonha here:
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+Before doing the next actions I will log them.
+I saved
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+I copy and pasted
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+into
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I zipped
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I submitted
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha.zip on Webcourses
+*****OUT: Thu Jan 13 22:42:00 EST 2022
