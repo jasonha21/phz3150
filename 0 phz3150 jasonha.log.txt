@@ -214,3 +214,31 @@ Problem 5
 I had to finish the notebook and turn this homework in unfinished, I committed the changed notebook with the message"Finished on working on as much of hw5 as I could" to github desktop and pushed it to origin
 I took a screenshot of it having been committed and saved it as "C:\Users\jason\Desktop\phz3150\handin\hw5_jasonha\hw5_finalcommit.jpg"
 Out***** Thu Feb 10 11:55:00 EST 2022
+
+In***** Wed Feb 16 20:17:00 EST 2022
+Starting HW6
+
+Problem 1
+
+Created a new directory called hw6_jasonha at "C:\Users\jason\Desktop\phz3150\handin\hw6_jasonha"
+Windows wouldn't let me make a folder called HW6/ so I named the homework folder like I normally do.
+Created a new jupyter notebook in that directory called hw6_jha.ipynb
+Formatted the notebook with markdown comment containing name, assignment number, date, and "problem 2".
+Saved the notebook, and committed the local change in github desktop. I then pushed this update to origin.
+Commit summary was "Started problem 6 with new notebook and directory."
+
+Problem 2
+
+Imported numpy and pyplot
+Created the array with step using np.arange, used 100.5 as the second number after printing and realizing i was missing an element with the value 100.
+Found the function numpy.log10 to use for y
+z was solved by using the operator ** to give x the exponent of 1/2
+Created a plot with all the requirements listed until I was satisfied with how it looks.
+Saved the plot as pdf called 'hw6_y(x)z(x)plot.pdf'
+
+Problem 3
+I remember how to make an array and print values in the array using conditions
+At first I printed he elements of q that are larger than 50 and smaller than 70 using , to separate q[50<q] and q[q>70], but instead I found that you can use & to put two conditions in
+I was able to turn the array into an list using .tolist()
+I knew how to slice the list
+Out*** Wed Feb 16 22:23:00 EST 2022
