@@ -296,3 +296,20 @@ I was able to use a for loop to print each word in the sentence
 I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
 I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
 OUT***** Wed Feb 23 11:34:00 EST 2022
+
+IN***** Wed Feb 23 13:45:00 EST 2022
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+
+END***** Wed Feb 23 14:12:00 EST 2022
