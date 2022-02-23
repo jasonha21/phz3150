@@ -278,3 +278,21 @@ I created a dictionary but I couldn't figure out what functions to use to return
 Problem 5
 I am zipping the file and committing the local changes and pushing them to origin.
 I took a screenshot using snipping tool to prove I committed the changes and put a copy of this log in the folder.
+OUT***** Thu Feb 17 11:50:00 EST 2022
+
+IN***** Wed Feb 23 10:36:00 EST 2022
+
+HW6
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+OUT***** Wed Feb 23 11:34:00 EST 2022
