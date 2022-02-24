@@ -313,3 +313,58 @@ I was able to replicate the function in a while loop, but it prints the word dev
 I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
 
 END***** Wed Feb 23 14:12:00 EST 2022
+
+IN***** Wed Feb 23:22:17:00 EST 2022
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+I needed a new sentence with only the first 6 words, and searching online i found that concatenating strings was simple so i just concatenated them by assigning each word to a variable.
+I then used a for loop inside of a for loop where the first loop iterates over each letter and sets flag = to 0 and the second compares letter i to every other letter by making it so if letter i is equal to letter j and that letter is not in the same position then flag is set to 1 and then letter i is only printed if its flag is equal to 0.
+
+Problem 3:
+working on the function circle in a notebook
+i defined the function and for the math i used the equation of a circle and solved it for y, which gave me
+y1=y0-((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+        y2=y0+((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+the reason for two functions is because the true answer is plus or minus the part under the radical, as a circle has two outputs for every x value.
+OUT***** Thu Feb 24 01:20:00 EST 2022
+
+IN***** Thu Feb 24 10:17:00 EST 2022
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+I needed a new sentence with only the first 6 words, and searching online i found that concatenating strings was simple so i just concatenated them by assigning each word to a variable.
+I then used a for loop inside of a for loop where the first loop iterates over each letter and sets flag = to 0 and the second compares letter i to every other letter by making it so if letter i is equal to letter j and that letter is not in the same position then flag is set to 1 and then letter i is only printed if its flag is equal to 0.
+
+Problem 3:
+working on the function circle in a notebook
+i defined the function and for the math i used the equation of a circle and solved it for y, which gave me
+y1=y0-((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+        y2=y0+((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+the reason for two functions is because the true answer is plus or minus the part under the radical, as a circle has two outputs for every x value.
+i had to make arrays to hold y1 and y2 but i was able to finish the function and have it work.
+importing the function from my ipynb file i made in jupyter gives me the error null is not defined which has never happened before, so i will instead load the functions in
+
+Problem 4:
+This one was more simple, given an array i had to compare one number to the others and switch their orders if the first was smaller. using two for loops the second loop compares the number to the number after it, and switches them if the one in front is smaller. the first for loop then does this for all numbers
+Problem 6:
+preparing homework and zipping and submitting. also pushing to origin in github and screenshotting.
