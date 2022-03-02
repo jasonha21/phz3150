@@ -368,21 +368,3 @@ Problem 4:
 This one was more simple, given an array i had to compare one number to the others and switch their orders if the first was smaller. using two for loops the second loop compares the number to the number after it, and switches them if the one in front is smaller. the first for loop then does this for all numbers
 Problem 6:
 preparing homework and zipping and submitting. also pushing to origin in github and screenshotting.
-
-OUT*****Thu Feb 24 11:58:00 EST 2022
-
-IN*****Wed Mar 2 13:28:00 EST 2022
-
-Started working on midterm project
-1. 
-Created the directory Midterm_jasonha and moved the required files to that folder.
-Imported numpy and matplotlib.pyplot
-
-2.
-created the necessary variables with a value of the input function
-created list planets_and_moons
-used an if, elif, else function to check if any or both inputs are incorrect and printed the required error message or else the valid locations message.
-Ran the tests d-1 and d-2 and saved the screenshots using the windows snip tool
-3.
-I need to figure out which numpy function can put in this .dat file.
-OUT***** Wed Mar 2 14:09:00 EST 2022
