@@ -481,3 +481,85 @@ I didn't end up having any issues, this problem was less troublesome all I had t
 Now for the print statement, it keeps printing "None" after the print statements. The statements are right I just don't know where None is coming from.
 
 OUT***** Thu Mar 24 03:20:00 EST 2022
+
+IN***** Thu Mar 3 10:31:EST 2022
+4.
+I figured out how to change the object type to write in the text file correctly.
+5.I added the other two dates as arrays and used an if function to compare the values for each date to find the best date with least distance. I made the new print function and tested te changes.
+6.
+I was not able to finish problem 6 but I will make a screenshot and push it to the origin.
+OUT***** Thu Mar 3 13:29:00 EST 2022
+
+IN***** Wed Mar 16 22:20:00 EST 2022
+
+HW8
+Problem 1:
+
+Created the new folder hw8_jasonha in handin
+
+Problem 2:
+
+created notebook for main homework file
+created new notebook to code the support function
+wrote function using the formula and solving for a1(i know the instructions said use earth as p1 and a1 but theyre ratios so it works either way)
+tested the function and then exported it as a py file
+imported it into the notebook
+divided each planet's period in days by 365.25 to get a variable for their period in earth years
+ran the function for each of the planets
+created two arrays with the true and calculated distances
+created an array with numbers 1-7 to represent the 7 planets in order
+plotted the points according to the directions
+
+Problem 3:
+
+created arrays x y and z
+a) plotted y(x) and z(x) as directed and use plt functions to make it look like what was requested
+b)I was able to scan arrays x y and z and print what was requested
+c) made the 2d array of zeros with sizes len(x) and len(y)
+d)I used the double for loop to populate those arrays
+e) I couldn't figure out how to print the requested part from the x and y columns. I'm not sure if I mad the inital 2d array of zeros right.
+f) i used np.transpose to do this
+g) i wrote the code to make a publication ready plot with the right slices, but am getting the error that the length is not right. I may have messed up the data somewhere along the line.
+
+Problem 4:
+I began to call the function with the right variables. I am very confused as to what the function is supposed to do and how to get it to take an array of volumes and return an array as well.
+
+Problem 5: I am out of time, so I am going to prepare and submit the homework. I am going to make a copy of this log into the handin and commit the finalized notebook and functions to github. Then I will zip the folder and submit it to webcourses.
+OUT***** Thu Mar 17 11:58:00 EST 2022
+
+IN***** Thu Mar 24 10:00:00 EST 2022
+
+Starting HW 9
+
+Problem 1
+Created directory hw9_jasonha in handin directory
+Created hw8_jha jupyter notebook in hw9_jasonha
+Committed these changes and pushed them to origin with a statement.
+
+Problem 2
+
+a)
+imported numpy and created the two arrays
+b)
+to create the function it looks like we have to take the 1st 2nd and 3rd element of sports and do multiplication with their speeds to get their times for each event, add all 3 events together, and use that to get the total time. then compare all their times to get the fastest time and longest time, then use those times to get the id's of the participants and print the message using the id and time in hours. I was able to write that by setting intial values to compare together and a for loop to compare values and replace them if the fastest time happened to be faster than the current time held and vice versa with the slowest.
+c) creating the dictionary was easy, i just redefined sports and athletes_times
+d) transforming the original function into a dictionary function was easy, i just needed to refer to the same values as i did originally and iterated over key in athletes_times.
+e) calling both functions showed that the result was the same, the same participants were the slowest and fastest.
+
+Problem 3
+
+a) I have to find a problem, most likely from my physics class, for now I'm moving to Problem 4 while I try to get inspiration. I decided to use a kinematics problem from my physics class
+b) I created a function to solve for all the variables requested of me and also I used those variables to make a position versus time graph.
+I am turning in hw9_graph.pdf
+
+Problem 4
+
+for all of the steps in problem 4 i can define the class based off the demo we went over in class, and any issues i come across ill just have to deal with.
+I didn't end up having any issues, this problem was less troublesome all I had to do was properly refer to things with the subject followed by . and the function.
+Now for the print statement, it keeps printing "None" after the print statements. The statements are right I just don't know where None is coming from.
+
+Problem 5
+
+I am committing all these changes to github and snipping that using snip tool and saving that as hw9_commit.jpg and turning that in.
+
+OUT***** Thu Mar 24 11:57:00 EST 2022
