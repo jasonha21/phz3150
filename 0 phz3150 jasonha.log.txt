@@ -450,3 +450,34 @@ I began to call the function with the right variables. I am very confused as to 
 
 Problem 5: I am out of time, so I am going to prepare and submit the homework. I am going to make a copy of this log into the handin and commit the finalized notebook and functions to github. Then I will zip the folder and submit it to webcourses.
 OUT***** Thu Mar 17 11:58:00 EST 2022
+
+IN***** Wed Mar 23 19:53:00 EST 2022
+
+Starting HW 9
+
+Problem 1
+Created directory hw9_jasonha in handin directory
+Created hw8_jha jupyter notebook in hw9_jasonha
+Committed these changes and pushed them to origin with a statement.
+
+Problem 2
+
+a)
+imported numpy and created the two arrays
+b)
+to create the function it looks like we have to take the 1st 2nd and 3rd element of sports and do multiplication with their speeds to get their times for each event, add all 3 events together, and use that to get the total time. then compare all their times to get the fastest time and longest time, then use those times to get the id's of the participants and print the message using the id and time in hours. I was able to write that by setting intial values to compare together and a for loop to compare values and replace them if the fastest time happened to be faster than the current time held and vice versa with the slowest.
+c) creating the dictionary was easy, i just redefined sports and athletes_times
+d) transforming the original function into a dictionary function was easy, i just needed to refer to the same values as i did originally and iterated over key in athletes_times.
+e) calling both functions showed that the result was the same, the same participants were the slowest and fastest.
+
+Problem 3
+
+a) I have to find a problem, most likely from my physics class, for now I'm moving to Problem 4 while I try to get inspiration
+
+Problem 4
+
+for all of the steps in problem 4 i can define the class based off the demo we went over in class, and any issues i come across ill just have to deal with.
+I didn't end up having any issues, this problem was less troublesome all I had to do was properly refer to things with the subject followed by . and the function.
+Now for the print statement, it keeps printing "None" after the print statements. The statements are right I just don't know where None is coming from.
+
+OUT***** Thu Mar 24 03:20:00 EST 2022
