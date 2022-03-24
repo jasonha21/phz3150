@@ -1,0 +1,565 @@
+Jason Ha
+Log for PHZ 3150, Spring 2022
+*****IN: Thu Jan 13 21:57:00 EST 2022
+Made a directory for the class here:
+\Users\jason\Desktop\phz3150
+Opened Notepad, started this log, saved as:
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+Completed the survey here:
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Jason Ha
+Email: jasonvha@knights.ucf.edu
+Phone: 407-558-5515
+Major: Photonics Science and Engineering
+Year: Freshman
+ID: 5276797
+How did you hear about this course? My counselor Mike Mckee recommended this to me.
+Do you have a laptop you can bring to class, install software on, etc.? Yes, a gaming one so it works pretty well.
+What operating system and version does it run? Windows 11 Home
+How much free disk space does it have? 566 GB
+What operating systems are you comfortable working in? Just Windows, but I would like to learn.
+What computer classes have you taken, including high school,
+extracurricular, etc.? None.
+Have you ever programmed a computer? No.
+In what language(s)? N/A
+Summarize your experience: I've had some experience using html to code as well as Arduino in last semester's engineering lab.
+Have you taken statistics or probability? No.
+Why are you taking this course? I would like to learn more about coding and python.
+Are there particular topics you hope to learn? Python, I was told it'd be the language used as we progress in photonics.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I don't think I have.
+Have you ever been involved with a science club or similar?  If so,
+describe: I was in science national honor society.
+Created a directory called books here:
+\Users\jason\Desktop\phz3150\books
+Downloaded https://www.greenteapress.com/thinkpython/thinkpython.pdf
+Saved the file directly to books as Users\jason\Desktop\phz3150\books\thinkpython
+*****OUT: Thu Jan 13 22:21:00 EST 2022
+*****IN: Thu Jan 13 22:25:00 EST 2022
+I created the directory demos here:
+\Users\jason\Desktop\phz3150\demos
+I created the directory handin here:
+\Users\jason\Desktop\phz3150\handin
+I created the directory hw1_jasonha here:
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+Before doing the next actions I will log them.
+I saved
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+I copy and pasted
+\Users\jason\Desktop\phz3150\0 phz3150 jasonha.log
+into
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I zipped
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha
+I submitted
+\Users\jason\Desktop\phz3150\handin\hw1_jasonha.zip on Webcourses
+*****OUT: Thu Jan 13 22:42:00 EST 2022
+*****IN: Mon Jan 24 23:23:00 EST 2022
+Started HW2
+Problem 1
+On Thu Jan 13
+Enabled Windows Subsystem for Linux
+Restarted the computer
+Installed Ubuntu from the Microsoft Store
+Set up username and password and wrote it down on paper
+ran sudo apt update
+ran sudo apt upgrade
+On Thu Jan 20
+Installed Miniconda from https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe at \Users\jason\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
+Started python session
+ran conda update -all
+ran conda install numpy scipy ipython matplotlib
+ran conda install spyder
+On Mon Jan 24 (today)
+ran conda install jupyter
+Opened BASH terminal
+ran sudo apt install emacs
+downloaded emacs-25.3 1-x86 64.zip from http://ftp.gnu.org/gnu/emacs/windows/emacs-25/emacs-25.3_1-x86_64.zip to 
+C:\Users\jason\Downloads\emacs-25.3_1-x86_64.zip
+Moved emacs-25.3 1-x86 64 to 
+C:\Users\jason\AppData\Roaming\emacs-25.3_1-x86_64
+Opened Bash Terminal
+ran sudo apt install git
+OUT*****: Mon Jan 25 00:01:00 EST 2022
+IN*****: Mon Jan 25 10:40:00 EST 2022
+Downloaded Git-2.35.0-64-bit.exe from https://github.com/git-for-windows/git/releases/download/v2.35.0.windows.1/Git-2.35.0-64-bit.exe
+to "C:\Users\jason\Downloads\Git-2.35.0-64-bit.exe"
+and installed the software to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git
+Saved screenshot of Jupyter Session to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_jupytersession.jpeg" using windows snip tool
+Turning in hw2_jupytersession.jpeg
+Opened Spyder to verify python version 3.7
+Saved screenshot of spyder session to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_python_version3.7.jpg" using windows snip tool.
+Turning in hw2_python_version3.7.jpg
+Downloaded GitHubDesktopSetup-x64 from https://central.github.com/deployments/desktop/desktop/latest/win32
+Installed Github desktop to C:\Users\jason\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc
+I had already synced it with the classroom.
+Took screenshot of Github Desktop with windows snip tool
+Saved to "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_python_version3.7.jpg"
+Problem 2
+English sentence with correct syntax but incorrect tokens
+"To*#day I gave my d@g a bath."
+English sentence with correct tokens but incorrect syntax:
+"He smiling when your fell."
+The main feature of natural languages preventing their use as programming languages is their ambiguity. Natural languages at their core can change the meaning of what they communicate based on things like context and tones. Programming languages in contrast strive to convey the same meaning by removing that and being precise as possible.
+Problem 3
+Completed github hello world tutorial
+Uploaded hw1_survey.txt to HW1 classroom directory and took a screenshot using windows snip.
+Saved as "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_github_hw1_survey.txt upload.jpg"
+Pushed to origin
+took a screenshot using windows snip tool
+saved as "C:\Users\jason\Desktop\phz3150\handin\hw2_jasonha\hw2_github_pushtoorigin.jpg"
+Problem 1
+Turning in hw2_jupytersession.jpeg, hw2_python_version3.7.jpeg
+Problem 2
+Turning in the text above
+Problem 3
+Turning in hw2_github_hw1_survey.txt upload.jpg, hw2_github_pushtoorigin.jpg
+OUT***** Mon Jan 25 11:51:00 EST 2022
+IN***** Thu Jan 27 10:45:00 EST 2022
+homework 3
+created a new directory called hw3_jasonha under handin
+problem 1:
+created a new local repository at C:\Users\jason\Desktop\phz3150, and initialized it with a readme.
+OUT***** Thu Jan 27 10:52:00 EST 2022
+IN***** Tue Feb 1 10:49:00 EST 2022
+copied from last entry
+homework 3
+created a new directory called hw3_jasonha under handin
+problem 1:
+created a new local repository at C:\Users\jason\Desktop\phz3150, and initialized it with a readme.
+published repository "practice" to personal Github account.
+already downloaded github Desktop from before in class and set up repositories besides practice in class.
+committing this log to the phz3150 repository (I'm not sure whether to use the phz3150 repository or my practice repository but both are on my computer)
+I committed the file by uploading it and committing with the message 
+"Added log to github revision control"
+I made sure there is a backup on GitHub by adding this.
+I just realized that I added the first repository incorrectly, I went back to create a new repository and selected the phz3150 folder as the repository, now I will committ it with no description.
+After the initial commit I published this repository to github publicly with the commit message "Committed phz3150 directory as a repository"
+I can now see all version historys of my log as I push the change to origin, so I took a screenshot of my phz3150 files in github showing that I have a backup and that the github code updates with newer versions of my log.
+I took a screenshot of this as phz3150repositorygithub.jpg using windows snip
+I made a new folder called test_git in my explorer but I couldn't find out how to put it under revision control before I added a file. After adding hw1-survey.txt from webcourses I committed the change to the local repository on Github Desktop, then pushed it to origin.
+Out***** Tue Feb 1 11:45:00 EST 2022
+In***** Thu Feb 3 10:38:00 EST 2022
+Just realized I've been working on problem 2 but didn't name it.
+Removed hw1-survey.txt from test_git
+Took 3 screenshots using the windows snip tool, the first of the original commit uploading hw1-survey.txt which is saved as Uploaded_hw1-survey.txt.jpg to C:\Users\jason\Desktop\phz3150\handin\hw3_jasonha
+the second screenshot was of the commit removing the txt file saved as Removed hw1-survey.txt.jpg and saved to \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+the third screenshot was of the commit history and saved as phz3150 commit history.jpg to \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+Opened jupyter and created a new notebook at \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+Named the notebook hw3_jasonha_test_notebook, completed problem 3 in this notebook.
+Finished Problem 3 and now working on Problem 4 to prepare files to submit.
+Going back to Problem 1 to list all problems in order and what I will turn in.
+
+Problem 1
+
+I will paste all the problems and how I solved them in one entry. Submitting this log for that.
+
+Problem 2
+
+created a new directory called hw3_jasonha under handin
+created a new local repository at C:\Users\jason\Desktop\phz3150, and initialized it with a readme.
+published repository "practice" to personal Github account.
+already downloaded github Desktop from before in class and set up repositories besides practice in class.
+committing this log to the phz3150 repository (I'm not sure whether to use the phz3150 repository or my practice repository but both are on my computer)
+I committed the file by uploading it and committing with the message 
+"Added log to github revision control"
+I made sure there is a backup on GitHub by adding this.
+I just realized that I added the first repository incorrectly, I went back to create a new repository and selected the phz3150 folder as the repository, now I will committ it with no description.
+After the initial commit I published this repository to github publicly with the commit message "Committed phz3150 directory as a repository"
+I can now see all version historys of my log as I push the change to origin, so I took a screenshot of my phz3150 files in github showing that I have a backup and that the github code updates with newer versions of my log.
+I took a screenshot of this as phz3150repositorygithub.jpg using windows snip
+I made a new folder called test_git in my explorer but I couldn't find out how to put it under revision control before I added a file. After adding hw1-survey.txt from webcourses I committed the change to the local repository on Github Desktop, then pushed it to origin.
+Just realized I've been working on problem 2 but didn't name it.
+Removed hw1-survey.txt from test_git
+Took 3 screenshots using the windows snip tool, the first of the original commit uploading hw1-survey.txt which is saved as Uploaded_hw1-survey.txt.jpg to C:\Users\jason\Desktop\phz3150\handin\hw3_jasonha
+the second screenshot was of the commit removing the txt file saved as Removed hw1-survey.txt.jpg and saved to \User
+s\jason\Desktop\phz3150\handin\hw3_jasonha
+the third screenshot was of the commit history and saved as phz3150 commit history.jpg to \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+Opened jupyter and created a new notebook at \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+ turning in phz3150repositorygithub.jpg, Uploaded_hw1-survey.txt.jpg, Removed hw1-survey.txt.jpg, and phz3150_commit history.jpg
+problem 3:
+
+Opened jupyter and created a new notebook at \Users\jason\Desktop\phz3150\handin\hw3_jasonha
+Named the notebook hw3_jasonha_test_notebook, completed problem 3 in this notebook.
+turning in hw3_jasonha_test_notebook
+
+Out***** Thu Feb 3 11:11:00 EST 2022
+
+IN***** Thu Feb 3 11:14:00 EST 2022
+HW4
+Problem 1
+Created a new folder named hw4_jasonha at C:\Users\jason\Desktop\phz3150\handin
+Created a new notebook called hw4_jasonha.ipynb at C:\Users\jason\Desktop\phz3150\handin\hw4_jasonha
+saved and committed this to github
+Completed Problem 2 in the notebook, I solved the problem by making numpy arrays so the math could be done using arrays.
+created a new notebook called acceleration_function.ipynb for Problem 3
+I wasnt able to figure out how to define the function acceleration for problem 3.
+Out***** Thu Feb 3 11:53:00 EST 2022
+In***** Thu Feb 10 10:39:00 EST 2022
+Starting hw_5
+
+Problem 1
+I created a new folder called hw5_jasonha at C:\Users\jason\Desktop\phz3150\handin
+In this folder I created a new juptyer notebook and saved it as hw5_jha.ipynb
+After doing these two I committed this change using github desktop and pushed it to the origin.
+I formatted the hw correctly so i can start the next problems and imported numpy.
+
+Problem 2
+I start by importing cmath a I was told I need the complex square root function.
+I then define a function called Root1 with variables a b and c because the quadratic equation has two solutions
+I was having trouble printing just Root1 but i realized i was trying to print a function and not call it. I use variables root1 and root2 for the math, then create a list that gets the values from root1 and root2 and returns them.
+Problem 3
+I was having trouble creating a function for problem 3
+Problem 5
+I had to finish the notebook and turn this homework in unfinished, I committed the changed notebook with the message"Finished on working on as much of hw5 as I could" to github desktop and pushed it to origin
+I took a screenshot of it having been committed and saved it as "C:\Users\jason\Desktop\phz3150\handin\hw5_jasonha\hw5_finalcommit.jpg"
+Out***** Thu Feb 10 11:55:00 EST 2022
+
+In***** Wed Feb 16 20:17:00 EST 2022
+Starting HW6
+
+Problem 1
+
+Created a new directory called hw6_jasonha at "C:\Users\jason\Desktop\phz3150\handin\hw6_jasonha"
+Windows wouldn't let me make a folder called HW6/ so I named the homework folder like I normally do.
+Created a new jupyter notebook in that directory called hw6_jha.ipynb
+Formatted the notebook with markdown comment containing name, assignment number, date, and "problem 2".
+Saved the notebook, and committed the local change in github desktop. I then pushed this update to origin.
+Commit summary was "Started problem 6 with new notebook and directory."
+
+Problem 2
+
+Imported numpy and pyplot
+Created the array with step using np.arange, used 100.5 as the second number after printing and realizing i was missing an element with the value 100.
+Found the function numpy.log10 to use for y
+z was solved by using the operator ** to give x the exponent of 1/2
+Created a plot with all the requirements listed until I was satisfied with how it looks.
+Saved the plot as pdf called 'hw6_y(x)z(x)plot.pdf'
+
+Problem 3
+I remember how to make an array and print values in the array using conditions
+At first I printed he elements of q that are larger than 50 and smaller than 70 using , to separate q[50<q] and q[q>70], but instead I found that you can use & to put two conditions in
+I was able to turn the array into an list using .tolist()
+I knew how to slice the list
+Out*** Wed Feb 16 22:23:00 EST 2022
+In*** Thu Feb 17 10:41:00 EST 2022
+
+Problem 1
+
+Created a new directory called hw6_jasonha at "C:\Users\jason\Desktop\phz3150\handin\hw6_jasonha"
+Windows wouldn't let me make a folder called HW6/ so I named the homework folder like I normally do.
+Created a new jupyter notebook in that directory called hw6_jha.ipynb
+Formatted the notebook with markdown comment containing name, assignment number, date, and "problem 2".
+Saved the notebook, and committed the local change in github desktop. I then pushed this update to origin.
+Commit summary was "Started problem 6 with new notebook and directory."
+
+Problem 2
+
+Imported numpy and pyplot
+Created the array with step using np.arange, used 100.5 as the second number after printing and realizing i was missing an element with the value 100.
+Found the function numpy.log10 to use for y
+z was solved by using the operator ** to give x the exponent of 1/2
+Created a plot with all the requirements listed until I was satisfied with how it looks.
+Saved the plot as pdf called 'hw6_y(x)z(x)plot.pdf'
+
+Problem 3
+I remember how to make an array and print values in the array using conditions
+At first I printed he elements of q that are larger than 50 and smaller than 70 using , to separate q[50<q] and q[q>70], but instead I found that you can use & to put two conditions in
+I was able to turn the array into an list using .tolist()
+I knew how to slice the list and to convert an array to a tuple using tuple()
+I used if else statements to say its true or false that the letter e is in each element.
+After completing the problem using functions I realize I should have shortened what I wrote using the map function.
+
+Problem 4
+I created a list of strings of the numbers
+i need to figure out how to create a dictionary
+I created a dictionary but I couldn't figure out what functions to use to return the value of the key.
+
+Problem 5
+I am zipping the file and committing the local changes and pushing them to origin.
+I took a screenshot using snipping tool to prove I committed the changes and put a copy of this log in the folder.
+OUT***** Thu Feb 17 11:50:00 EST 2022
+
+IN***** Wed Feb 23 10:36:00 EST 2022
+
+HW6
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+OUT***** Wed Feb 23 11:34:00 EST 2022
+
+IN***** Wed Feb 23 13:45:00 EST 2022
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+
+END***** Wed Feb 23 14:12:00 EST 2022
+
+IN***** Wed Feb 23:22:17:00 EST 2022
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+I needed a new sentence with only the first 6 words, and searching online i found that concatenating strings was simple so i just concatenated them by assigning each word to a variable.
+I then used a for loop inside of a for loop where the first loop iterates over each letter and sets flag = to 0 and the second compares letter i to every other letter by making it so if letter i is equal to letter j and that letter is not in the same position then flag is set to 1 and then letter i is only printed if its flag is equal to 0.
+
+Problem 3:
+working on the function circle in a notebook
+i defined the function and for the math i used the equation of a circle and solved it for y, which gave me
+y1=y0-((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+        y2=y0+((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+the reason for two functions is because the true answer is plus or minus the part under the radical, as a circle has two outputs for every x value.
+OUT***** Thu Feb 24 01:20:00 EST 2022
+
+IN***** Thu Feb 24 10:17:00 EST 2022
+
+Problem 1:
+Created new folder called hw7_jasonha under handin folder
+Created a new notebook called hw7_jha.ipynb under hw7_jasonha
+Formatted the notebook with my name assignment number and date
+Committed the local changes with the summary "Backup for hw7" and pushed to origin.
+
+Problem 2:
+I converted the sentence to a list of strings
+I was able to use a for loop to print each word in the sentence
+I also used a for loop to print the longest word by modeling it after the function we did in the demo and comparing the length of each string.
+I was able to replicate the function in a while loop, but it prints the word developer which is the last word instead of the longest word.
+I figured out why every iteration of n would print developer, my original code used sentence[word] when word isnt a parameter in a while loop. changing it to sentence[n] made it work properly.
+I needed a new sentence with only the first 6 words, and searching online i found that concatenating strings was simple so i just concatenated them by assigning each word to a variable.
+I then used a for loop inside of a for loop where the first loop iterates over each letter and sets flag = to 0 and the second compares letter i to every other letter by making it so if letter i is equal to letter j and that letter is not in the same position then flag is set to 1 and then letter i is only printed if its flag is equal to 0.
+
+Problem 3:
+working on the function circle in a notebook
+i defined the function and for the math i used the equation of a circle and solved it for y, which gave me
+y1=y0-((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+        y2=y0+((((-x0)**2) + (2*x0*x[i]) + (r**2) - (x[i]**2))**(1/2))
+the reason for two functions is because the true answer is plus or minus the part under the radical, as a circle has two outputs for every x value.
+i had to make arrays to hold y1 and y2 but i was able to finish the function and have it work.
+importing the function from my ipynb file i made in jupyter gives me the error null is not defined which has never happened before, so i will instead load the functions in
+
+Problem 4:
+This one was more simple, given an array i had to compare one number to the others and switch their orders if the first was smaller. using two for loops the second loop compares the number to the number after it, and switches them if the one in front is smaller. the first for loop then does this for all numbers
+Problem 6:
+preparing homework and zipping and submitting. also pushing to origin in github and screenshotting.
+
+OUT*****Thu Feb 24 11:58:00 EST 2022
+
+IN*****Wed Mar 2 13:28:00 EST 2022
+
+Started working on midterm project
+1. 
+Created the directory Midterm_jasonha and moved the required files to that folder.
+Imported numpy and matplotlib.pyplot
+
+2.
+created the necessary variables with a value of the input function
+created list planets_and_moons
+used an if, elif, else function to check if any or both inputs are incorrect and printed the required error message or else the valid locations message.
+Ran the tests d-1 and d-2 and saved the screenshots using the windows snip tool
+3.
+I need to figure out which numpy function can put in this .dat file.
+OUT***** Wed Mar 2 14:09:00 EST 2022
+
+IN***** Wed Mar 2 19:48:00 EST 2022
+
+3. 
+
+I found the function numpy.loadtxt works best to create the array I wanted.
+I used the .index function to make the variables equal to the index of where the strings are in the list
+I was able to print an informative statement with these variables.
+Using the rate = distance / time formula I calculated the time in hours using the given values.
+I tried using the modulus function at first, but instead I leveraged the int function to calculate the years days hours and minutes without counting the smaller units from the total time it takes.
+I was able to turn the function I wrote so far into a function called planet_tour. I saved this as a py file and imported it and called it for Earth and Mars.
+
+4.
+
+In a separate notebook where I work on the planet_tour function I was able to calculate the number of trips needed by dividing the distance by the distance it takes for fuel to run out.
+I made an array using arange to get the distances a station needs to meet us at. Element 0 of the array represents the distance 0.65, which is where the first stop must take place.
+I need to figure out how to write this to a text file, so far I've written with the open function but the last part of the message where we must tell the stations where to meet us is hard to write.
+
+OUT***** Thu Mar 3 00:51:00 EST 2022
+
+IN***** Thu Mar 3 10:31:EST 2022
+4.
+I figured out how to change the object type to write in the text file correctly.
+5.I added the other two dates as arrays and used an if function to compare the values for each date to find the best date with least distance. I made the new print function and tested te changes.
+6.
+I was not able to finish problem 6 but I will make a screenshot and push it to the origin.
+OUT***** Thu Mar 3 13:29:00 EST 2022
+
+IN***** Wed Mar 16 22:20:00 EST 2022
+
+HW8
+Problem 1:
+
+Created the new folder hw8_jasonha in handin
+
+Problem 2:
+
+created notebook for main homework file
+created new notebook to code the support function
+wrote function using the formula and solving for a1(i know the instructions said use earth as p1 and a1 but theyre ratios so it works either way)
+tested the function and then exported it as a py file
+imported it into the notebook
+divided each planet's period in days by 365.25 to get a variable for their period in earth years
+ran the function for each of the planets
+created two arrays with the true and calculated distances
+created an array with numbers 1-7 to represent the 7 planets in order
+plotted the points according to the directions
+
+Problem 3:
+
+created arrays x y and z
+a) plotted y(x) and z(x) as directed and use plt functions to make it look like what was requested
+b)I was able to scan arrays x y and z and print what was requested
+c) made the 2d array of zeros with sizes len(x) and len(y)
+d)I used the double for loop to populate those arrays
+e) I couldn't figure out how to print the requested part from the x and y columns. I'm not sure if I mad the inital 2d array of zeros right.
+f) i used np.transpose to do this
+g) i wrote the code to make a publication ready plot with the right slices, but am getting the error that the length is not right. I may have messed up the data somewhere along the line.
+
+Problem 4:
+I began to call the function with the right variables. I am very confused as to what the function is supposed to do and how to get it to take an array of volumes and return an array as well.
+
+Problem 5: I am out of time, so I am going to prepare and submit the homework. I am going to make a copy of this log into the handin and commit the finalized notebook and functions to github. Then I will zip the folder and submit it to webcourses.
+OUT***** Thu Mar 17 11:58:00 EST 2022
+
+IN***** Wed Mar 23 19:53:00 EST 2022
+
+Starting HW 9
+
+Problem 1
+Created directory hw9_jasonha in handin directory
+Created hw8_jha jupyter notebook in hw9_jasonha
+Committed these changes and pushed them to origin with a statement.
+
+Problem 2
+
+a)
+imported numpy and created the two arrays
+b)
+to create the function it looks like we have to take the 1st 2nd and 3rd element of sports and do multiplication with their speeds to get their times for each event, add all 3 events together, and use that to get the total time. then compare all their times to get the fastest time and longest time, then use those times to get the id's of the participants and print the message using the id and time in hours. I was able to write that by setting intial values to compare together and a for loop to compare values and replace them if the fastest time happened to be faster than the current time held and vice versa with the slowest.
+c) creating the dictionary was easy, i just redefined sports and athletes_times
+d) transforming the original function into a dictionary function was easy, i just needed to refer to the same values as i did originally and iterated over key in athletes_times.
+e) calling both functions showed that the result was the same, the same participants were the slowest and fastest.
+
+Problem 3
+
+a) I have to find a problem, most likely from my physics class, for now I'm moving to Problem 4 while I try to get inspiration
+
+Problem 4
+
+for all of the steps in problem 4 i can define the class based off the demo we went over in class, and any issues i come across ill just have to deal with.
+I didn't end up having any issues, this problem was less troublesome all I had to do was properly refer to things with the subject followed by . and the function.
+Now for the print statement, it keeps printing "None" after the print statements. The statements are right I just don't know where None is coming from.
+
+OUT***** Thu Mar 24 03:20:00 EST 2022
+
+IN***** Thu Mar 3 10:31:EST 2022
+4.
+I figured out how to change the object type to write in the text file correctly.
+5.I added the other two dates as arrays and used an if function to compare the values for each date to find the best date with least distance. I made the new print function and tested te changes.
+6.
+I was not able to finish problem 6 but I will make a screenshot and push it to the origin.
+OUT***** Thu Mar 3 13:29:00 EST 2022
+
+IN***** Wed Mar 16 22:20:00 EST 2022
+
+HW8
+Problem 1:
+
+Created the new folder hw8_jasonha in handin
+
+Problem 2:
+
+created notebook for main homework file
+created new notebook to code the support function
+wrote function using the formula and solving for a1(i know the instructions said use earth as p1 and a1 but theyre ratios so it works either way)
+tested the function and then exported it as a py file
+imported it into the notebook
+divided each planet's period in days by 365.25 to get a variable for their period in earth years
+ran the function for each of the planets
+created two arrays with the true and calculated distances
+created an array with numbers 1-7 to represent the 7 planets in order
+plotted the points according to the directions
+
+Problem 3:
+
+created arrays x y and z
+a) plotted y(x) and z(x) as directed and use plt functions to make it look like what was requested
+b)I was able to scan arrays x y and z and print what was requested
+c) made the 2d array of zeros with sizes len(x) and len(y)
+d)I used the double for loop to populate those arrays
+e) I couldn't figure out how to print the requested part from the x and y columns. I'm not sure if I mad the inital 2d array of zeros right.
+f) i used np.transpose to do this
+g) i wrote the code to make a publication ready plot with the right slices, but am getting the error that the length is not right. I may have messed up the data somewhere along the line.
+
+Problem 4:
+I began to call the function with the right variables. I am very confused as to what the function is supposed to do and how to get it to take an array of volumes and return an array as well.
+
+Problem 5: I am out of time, so I am going to prepare and submit the homework. I am going to make a copy of this log into the handin and commit the finalized notebook and functions to github. Then I will zip the folder and submit it to webcourses.
+OUT***** Thu Mar 17 11:58:00 EST 2022
+
+IN***** Thu Mar 24 10:00:00 EST 2022
+
+Starting HW 9
+
+Problem 1
+Created directory hw9_jasonha in handin directory
+Created hw8_jha jupyter notebook in hw9_jasonha
+Committed these changes and pushed them to origin with a statement.
+
+Problem 2
+
+a)
+imported numpy and created the two arrays
+b)
+to create the function it looks like we have to take the 1st 2nd and 3rd element of sports and do multiplication with their speeds to get their times for each event, add all 3 events together, and use that to get the total time. then compare all their times to get the fastest time and longest time, then use those times to get the id's of the participants and print the message using the id and time in hours. I was able to write that by setting intial values to compare together and a for loop to compare values and replace them if the fastest time happened to be faster than the current time held and vice versa with the slowest.
+c) creating the dictionary was easy, i just redefined sports and athletes_times
+d) transforming the original function into a dictionary function was easy, i just needed to refer to the same values as i did originally and iterated over key in athletes_times.
+e) calling both functions showed that the result was the same, the same participants were the slowest and fastest.
+
+Problem 3
+
+a) I have to find a problem, most likely from my physics class, for now I'm moving to Problem 4 while I try to get inspiration. I decided to use a kinematics problem from my physics class
+b) I created a function to solve for all the variables requested of me and also I used those variables to make a position versus time graph.
+I am turning in hw9_graph.pdf
+
+Problem 4
+
+for all of the steps in problem 4 i can define the class based off the demo we went over in class, and any issues i come across ill just have to deal with.
+I didn't end up having any issues, this problem was less troublesome all I had to do was properly refer to things with the subject followed by . and the function.
+Now for the print statement, it keeps printing "None" after the print statements. The statements are right I just don't know where None is coming from.
+
+Problem 5
+
+I am committing all these changes to github and snipping that using snip tool and saving that as hw9_commit.jpg and turning that in.
+
+OUT***** Thu Mar 24 11:57:00 EST 2022
