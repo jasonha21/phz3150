@@ -626,3 +626,23 @@ submitting hw11_jha.png for this problem.
 I'm not putting this log in, zipping the file, and submitting.
 
 OUT*****Thu Apr 14 03:31:00 EST 2022
+
+IN***** Tue Apr 26 22:05:00 EST 2022
+
+Starting Final Project
+Downloaded all necessary files from canvas
+
+Problem 1:
+Opened the notebook to start it and I am working on the log.
+Did my necessary imports and created the empty list
+
+Problem 2:
+For this problem I turned the given numbers into a list, and created the dictionary.
+Using the list and dictionary, I created an empty list for the decoded message and iterated first over every number in the message list, then over each key to check if the value matched the current number from the message. If it did, then we append the key of that value and move on to the next number in the message.
+
+Problem 3:
+For this problem I used np.loadtxt to easily create an array, and used plt.contour to create the graph. I couldn't figure out a way to use the levels specified as that returned an error saying no contour levels were found within the data range. I appended the number 3 to the keycode list.
+
+Problem 4:
+For problem 4 I read in the data the same way, and used .invert_yaxis() to invert the y axis so the message could be read.
+OUT***** Wed Apr 27 05:39:00 EST 2022
